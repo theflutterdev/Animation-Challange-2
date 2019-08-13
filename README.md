@@ -1,6 +1,8 @@
-# complex_animation_design_2
+# Animation Challange 2
 
 A new Flutter project.
+
+[![Watch the video](https://v.pinimg.com/videos/720p/78/5f/fe/785ffe349bdadc0046b0bd0489efc123.mp4)
 
 ## Getting Started
 
